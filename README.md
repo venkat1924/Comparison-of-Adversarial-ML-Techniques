@@ -1,6 +1,6 @@
 # TO DO
 ## Write Paper
-0.  "When Digits Lie: A Critical Examination of Adversarial Tricks on MNIST"
+0.  "When Digits Lie: A Critical Examination of Adversarial Attacks on MNIST"
 1. "Breaking the Code: An Analytical Study of Adversarial Attacks on MNIST Neural Networks"
 2. "Fooling the Neural Eye: A Comparative Analysis of Adversarial Techniques on Digit Recognition"
 3. "Deception by Design: Evaluating Adversarial Strategies Against MNIST Neural Networks"
